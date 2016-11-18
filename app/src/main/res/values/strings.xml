@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geolocalizacion3</string>
+    <string name="title_activity_main">Map</string>
+
+
+    <string name="no_geocoder_available">Geocoder no disponible</string>
+
+    <string name="fetch_address">Buscar direccion</string>
+
+    <string name="address_found">Direccion encontrada</string>
+
+    <string name="no_address_found">Lo siento, direccion no encontrada</string>
+    <string name="no_location_data_provided">Localizacion no proveída</string>
+    <string name="service_not_available">Lo siento el servicio no esta disponible</string>
+    <string name="invalid_lat_long_used">Latitud o longitud no disponible</string>
+</resources>
